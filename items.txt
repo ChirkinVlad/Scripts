@@ -1,0 +1,3 @@
+Hi everyone. 
+My first bash script running. 
+Thank you.
